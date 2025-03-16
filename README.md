@@ -1,15 +1,13 @@
-# Exercise-04c-Enemies
+# Project 04 - 2D Platformer
+Created for MSCH-C220
 
 ## Implementation
+Built using Unity 2022.3.45f
+
+Multiple Levels, Sound Effects, New Enemy, Parallax Backgrounds, End Screen
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+Audio made using Bfxr
 
 ## Future Development
 
